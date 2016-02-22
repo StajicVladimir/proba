@@ -1,2 +1,3 @@
 Prva verzija
 prva izmena pre commit
+uradio commit, druga izmena
