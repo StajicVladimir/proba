@@ -3,4 +3,4 @@ prva izmena pre commit
 uradio commit, druga izmena
 Sad ce i treci commit
 
-CODE THAT DOESN'T WORK!
+Aj sad sve ponovo
